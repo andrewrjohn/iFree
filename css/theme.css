@@ -56,3 +56,13 @@
 #iFree {
 	color: black;
 }
+
+.article {
+	font-family: 'Open Sans', sans-serif;
+}
+
+footer img {
+	padding: 20px;
+	width: 85px;
+	height: 85px;
+}
